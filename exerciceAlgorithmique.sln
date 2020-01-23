@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Algorithms", "Iti.Algorithme\ITI.Algorithms.csproj", "{6FC01B5A-8D18-4697-891D-45F722523C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.AlgorithmsTest", "ITI.AlgorithmsTest\ITI.AlgorithmsTest.csproj", "{B9F84B43-9F05-4597-9653-371C60936DF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC01B5A-8D18-4697-891D-45F722523C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC01B5A-8D18-4697-891D-45F722523C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC01B5A-8D18-4697-891D-45F722523C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC01B5A-8D18-4697-891D-45F722523C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F84B43-9F05-4597-9653-371C60936DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F84B43-9F05-4597-9653-371C60936DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F84B43-9F05-4597-9653-371C60936DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F84B43-9F05-4597-9653-371C60936DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A954D7C9-7856-4DF6-BB29-8A92FB3BAC97}
+	EndGlobalSection
+EndGlobal
